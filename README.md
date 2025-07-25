@@ -1,4 +1,4 @@
-# # 🎓 College Management System
+## 🎓 College Management System
 
 This is a **College Management System (CMS)** developed as part of our **2nd year Database Management Systems (DBMS) mini project**. It is a Java Swing-based desktop application backed by **MySQL**, designed to automate and manage various administrative and academic activities within a college.
 
