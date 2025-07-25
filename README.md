@@ -112,11 +112,11 @@ The following tables are used in the project:
 
 
 ## 👥 Authors
-Ajay Dilip
-Allwin Nebu
-Harith S
-Jenna Maria Joby
-Jomin J Joseph
+Ajay Dilip,
+Allwin Nebu,
+Harith S,
+Jenna Maria Joby,
+Jomin J Joseph,
 Sebin Sabu
 
 
